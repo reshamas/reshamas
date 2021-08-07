@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a statistician based in New York City. 
+
+I'm the founder of [Data Umbrella](https://github.com/data-umbrella/event-transcripts).  Data Umbrella has an extensive library of videos here:  [Data Umbrella YouTube](https://www.youtube.com/c/DataUmbrella/videos). 
+
+My video presentations are available here:
+- [Enriching Data Visualizations with Annotations in Plotly](https://youtu.be/D2vsLy85rog) (PyOhio, 2021)
+
 <!--
 **reshamas/reshamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

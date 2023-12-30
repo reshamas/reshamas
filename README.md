@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a statistician based in New York City. 
+I am a statistician / data scientist based in New York City. 
 
-I run [Data Umbrella](https://github.com/data-umbrella/event-transcripts), where we organize data science events for the community.  Data Umbrella has an extensive library of videos here:  [Data Umbrella YouTube](https://www.youtube.com/c/DataUmbrella/videos). 
+I am a Director at [Data Umbrella](https://github.com/data-umbrella/event-transcripts), where we organize data science events for the community.  Data Umbrella has an extensive library of videos here:  [Data Umbrella YouTube](https://www.youtube.com/c/DataUmbrella/videos). 
 
 My [video presentations](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn) are available, and here is the latest: 
 - [Enriching Data Visualizations with Annotations in Plotly](https://youtu.be/D2vsLy85rog) (PyOhio, 2021)
